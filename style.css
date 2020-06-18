@@ -220,11 +220,14 @@ a.button-style span:nth-child(4) {
 @media screen and (max-width:650px){
   #section-a h1{
     margin-top: 15px;
-    font-size: 1.5rem;
+    font-size: 1.1rem;
   }
   #section-a h2{
     font-size: 1.3rem;
   }
+  #section-a p{
+  font-size: 0.8rem;
+  }    
 }
 #section-a p {
   padding: 30px;
