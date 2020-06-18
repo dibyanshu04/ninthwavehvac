@@ -9,6 +9,9 @@ a{
   color: #bebdbd;
   background: #2c5668be;
 }
+.nav-link {
+  margin: 0 4px;
+}
 #demo{
 background: rgba(189, 189, 189, 0.116);
 /* padding-top: 100px; */
