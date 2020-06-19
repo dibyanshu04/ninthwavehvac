@@ -333,7 +333,7 @@ border-radius: 10px;
   font-size: 1.3em;
   border-radius: 5px;
   transition: all 0.3s;
-  color: #3262ff;
+  color: rgb(247, 115, 92);
   background-color: rgba(0, 26, 255, 0.048);
 }
 .socials a:hover {
