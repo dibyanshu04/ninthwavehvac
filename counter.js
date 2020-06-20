@@ -42,3 +42,14 @@ function x_scroll_to_tab($, tab_nav) {
     "swing"
   );
 }
+
+// for the search bar modal
+
+$(document).ready(function () {
+  $("#myInput").on("keyup", function () {
+        var value = $(this).val().toLowerCase();
+    $("#myList li").filter(function () {
+      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1);
+    });
+  });
+});
