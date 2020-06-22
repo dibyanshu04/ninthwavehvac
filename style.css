@@ -354,6 +354,14 @@ border-radius: 10px;
    font-size: .75rem;
 }
 }
+@media screen and (max-width:750px) and (min-width:580px){
+  .footer-mail-space::after{
+    content: ' ';
+  }
+  .socials i{
+    font-size: 1.1rem;
+  }
+}
 .section-A1{
   padding: 20px 0;
 }
