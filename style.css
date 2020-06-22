@@ -294,7 +294,14 @@ border-radius: 10px;
   border-radius: 10px;
 
 }
-
+@media screen and (max-width:650px){
+  .sexoback{
+  background-image: url("media/backhome-mob.jpg");  
+  }
+  .cols img{
+    width: 25vw;
+  }
+}
 
 #section-d{
   font-size: 2rem;
