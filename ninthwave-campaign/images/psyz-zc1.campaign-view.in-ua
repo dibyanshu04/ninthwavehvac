@@ -1,0 +1,10 @@
+ 
+<link href="//css.zohostatic.in/campaigns/static4/css/styles.css" rel="stylesheet" type="text/css" />
+<!--local/main IDC-->
+<script type="text/javascript" src="//js.zohostatic.in/campaigns/static4/js/crossdomain_min.js"></script>
+<div class="ptb15"><div class="middle_container"><table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%"><tbody><tr><td align="left" valign="top" width="100%"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody> <tr><td align="left" valign="top"><table class="bgwhite c5 p25" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="center" height="350" valign="middle"> <div class="w60" style="margin:0px auto;"><div class="mt20"><input type="hidden" id="iamError" value="IAM_EXCEPTION" /><input type="hidden" id="errorParam" value="null" /><img src="//img.zohostatic.in/campaigns/static4/images/unknown_error.svg" alt="Alert Image" height="210" class="vm"></div><div class="txtnormal mt20 center   lightgraytxt " style="font-size:30px;">Oops! Error found.</div>
+<div class="mt20"><div class="f14 txtnormal mt20 tleft lineheight"><span id="ErrorMsg" value="URL_RULE_NOT_CONFIGURED" class="lightgray">Our server can not find the page you requested. You might have typed the link incorrectly or used an outdated link. Please check the link once again.</span></div>
+<div class=" txtnormal mt20 lightgray tleft lineheight" id="ErrorMsg3">If the error still persists, you can contact us at: support@zohocampaigns.com.</div>
+<!--<div class="mt20 txtnormal f16 lightgray txtbld bglightgray p10 w20 center" >10404</div>-->
+<!--<div class="mt20"><input name="" type="button" class="btnblue" value="Return to Home Page"></div>--></div></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div></div>
+
